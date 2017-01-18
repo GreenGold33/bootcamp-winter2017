@@ -12,7 +12,7 @@ module.exports = function(grunt) {
 		tdd_session: {
 			destFolder: 'www',
 			dest: 'index.html',
-			title: 'Frontend Stream1 Feb2016 - Code Institute',
+			title: 'Full Stack Web Development Bootcamp',
 			styles: [
 				'https://fonts.googleapis.com/css?family=Lato',
 				'https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css',
