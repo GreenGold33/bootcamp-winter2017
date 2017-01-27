@@ -854,6 +854,7 @@ Do the following [KOAN](https://github.com/mrdavidlaing/javascript-koans) to pra
 - [Styling HTML forms](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Styling_HTML_forms)
 - [HTML5 Rocks](http://www.html5rocks.com/en/)
 - [HTML5 Doctor](http://html5doctor.com/)
+- [HTML Best Practices | Schibsted](https://github.com/scm-spain/html-best-practices)
 
 
 <!-- ######################## CSS3 ######################## --> 
