@@ -2394,6 +2394,8 @@ Do the following katas to assure the understanding of Promise
 
 <span class="fa fa-youtube"></span> [[Event Emitter]](https://www.youtube.com/watch?v=NtrnaTKqFPQ)
 - [EventEmitters](https://github.com/juanmaguitar/apuntes-nodejs/blob/master/events/intro-events.md) [**[1]**](http://book.mixu.net/node/ch9.html#9-2-eventemitters)  </br> 
+  + [Examples](https://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941) [[1]](https://coligo.io/nodejs-event-emitter/)
+  + [Pro Article](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)
 - [Buffers](http://book.mixu.net/node/ch9.html#9-3-streams)
 
 
