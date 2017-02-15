@@ -2394,8 +2394,8 @@ Do the following katas to assure the understanding of Promise
 
 <span class="fa fa-youtube"></span> [[Event Emitter]](https://www.youtube.com/watch?v=NtrnaTKqFPQ)
 - [EventEmitters](https://github.com/juanmaguitar/apuntes-nodejs/blob/master/events/intro-events.md) [**[1]**](http://book.mixu.net/node/ch9.html#9-2-eventemitters)  </br> 
-  + [Examples](https://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941) [[1]](https://coligo.io/nodejs-event-emitter/)
-  + [Pro Article](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)
+  + [Examples](https://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941) [[1]](https://coligo.io/nodejs-event-emitter/) [[2]](https://medium.freecodecamp.com/learn-node-js-with-brigadier-fluffykins-part-ii-events-eventemitter-the-event-loop-6d4c139694fb#.k1tj8561k)
+
 - [Buffers](http://book.mixu.net/node/ch9.html#9-3-streams)
 
 
@@ -2404,7 +2404,9 @@ Do the following katas to assure the understanding of Promise
 ## Streams
 
 - [Streams](https://github.com/substack/stream-handbook) [[1]](https://www.sitepoint.com/basics-node-js-streams/) [**[2]**](http://book.mixu.net/node/ch9.html#9-3-streams) [[3]](https://github.com/juanmaguitar/apuntes-nodejs/blob/master/streams/intro-streams.md) [[4]](https://bl.ocks.org/joyrexus/10026630)  [[5]](https://www.safaribooksonline.com/blog/2013/05/01/using-streams-in-node-js/) 
+  - [Readable, Writable & Transform Streams](https://gist.github.com/juanmaguitar/75a007ea2343f79068996bfbe7dcf47a)
   - [Anatomia streams](https://github.com/juanmaguitar/apuntes-nodejs/blob/master/streams/streams.md)
+  - [Transform streams](https://carlosvillu.com/introduccion-a-transform-streams/)
 
 <span class="fa fa-youtube"></span> [**Streams**](https://www.youtube.com/watch?v=UD2dZw9iHCc)  [[1](https://www.youtube.com/watch?v=GlybFFMXXmQ) [2](https://www.youtube.com/watch?v=E3tTzx0Qoj0) [3](https://www.youtube.com/watch?v=DvlCT0N7yQI) [4](https://www.youtube.com/watch?v=a8W90jDHSho)] [[1]](https://www.youtube.com/watch?v=OeqnIuTMod4)</br> 
 <span class="fa fa-vimeo"></span> [Understanding Streams](https://vimeo.com/47005357)  
