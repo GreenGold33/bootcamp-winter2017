@@ -2813,6 +2813,9 @@ var mydoc = {
 
 [_Thinking in documents_](https://www.mongodb.com/blog/post/thinking-documents-part-1)
 
+- [Import Dataset → Restaurants](https://docs.mongodb.com/getting-started/node/import-data/)
+
+
 
 
 !SLIDE mongo
